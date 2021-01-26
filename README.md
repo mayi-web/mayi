@@ -1,2 +1,3 @@
 # mayi
-Mayivpn
+MayiVPN
+
